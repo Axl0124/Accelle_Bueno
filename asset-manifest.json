@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/Accelle_Bueno/static/css/main.47f72089.css",
-    "main.js": "/Accelle_Bueno/static/js/main.96d7a7c1.js",
+    "main.js": "/Accelle_Bueno/static/js/main.7181c27e.js",
     "static/js/787.1afbbc24.chunk.js": "/Accelle_Bueno/static/js/787.1afbbc24.chunk.js",
-    "static/media/PS.PNG": "/Accelle_Bueno/static/media/PS.9323f7254ab653e5395e.PNG",
+    "static/media/PS.PNG": "/Accelle_Bueno/static/media/PS.55fe88dd8692a7176362.PNG",
     "static/media/BEE.PNG": "/Accelle_Bueno/static/media/BEE.899819dad3df0b6456ac.PNG",
     "static/media/jchag2.PNG": "/Accelle_Bueno/static/media/jchag2.d6224e7197c31ff71595.PNG",
-    "static/media/RESUME.pdf": "/Accelle_Bueno/static/media/RESUME.371e20d98df8fed7b5ad.pdf",
+    "static/media/RESUME.pdf": "/Accelle_Bueno/static/media/RESUME.fb2930f01934c58a8351.pdf",
     "static/media/DP.png": "/Accelle_Bueno/static/media/DP.d83a804b079bf912a90f.png",
     "static/media/cover.png": "/Accelle_Bueno/static/media/cover.7167ad3ed0a6378ed258.png",
     "index.html": "/Accelle_Bueno/index.html",
     "main.47f72089.css.map": "/Accelle_Bueno/static/css/main.47f72089.css.map",
-    "main.96d7a7c1.js.map": "/Accelle_Bueno/static/js/main.96d7a7c1.js.map",
+    "main.7181c27e.js.map": "/Accelle_Bueno/static/js/main.7181c27e.js.map",
     "787.1afbbc24.chunk.js.map": "/Accelle_Bueno/static/js/787.1afbbc24.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.47f72089.css",
-    "static/js/main.96d7a7c1.js"
+    "static/js/main.7181c27e.js"
   ]
 }
