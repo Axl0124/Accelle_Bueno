@@ -33,7 +33,7 @@ function App() {
               <div className="container  flex flex-wrap items-center justify-between py-4 w-screen ">
                 <div className="w-full  flex justify-between md:w-auto md:static md:block md:justify-start">
                   <h1 className="pt-3 text-3xl md:text-5xl text-green-400 font-black ">
-                    BEUNO.
+                    BUENO.
                   </h1>
                   <button
                     className="text-white cursor-pointer text-xl leading-none px-3 py-1 border border-solid border-transparent rounded bg-transparent block lg:hidden outline-none focus:outline-none"
@@ -574,7 +574,7 @@ function App() {
                 </div>
               </a>
               <a
-                href="https://powersource.group/home/"
+                href="https://powersource.group/"
                 target="_blank"
                 rel="noreferrer"
               >
